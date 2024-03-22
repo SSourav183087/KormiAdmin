@@ -1,1 +1,1 @@
-We will be developing the KORMI admin panel in this repo.
+We will be developing the KORMI admin panel in this repo. And this iz Badhan.
